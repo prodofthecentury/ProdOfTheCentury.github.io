@@ -1,0 +1,4 @@
+# Minimal config for GitHub Pages (optional, prevents Jekyll processing)
+exclude:
+  - README.md
+  - LICENSE
